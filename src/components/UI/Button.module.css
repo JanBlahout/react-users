@@ -1,0 +1,11 @@
+.button {
+  font-family: inherit;
+  background-color: #40376e;
+  color: white;
+  transition: all 0.3s;
+}
+
+.button:hover,
+.button:active {
+  background-color: #48233c;
+}

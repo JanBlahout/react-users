@@ -1,0 +1,19 @@
+.input {
+  margin: 5rem auto;
+  width: 90%;
+  max-width: 40rem;
+  padding: 2rem;
+}
+
+.input label {
+  display: block;
+  padding-bottom: 0.5rem;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.input input {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+}
