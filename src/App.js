@@ -2,10 +2,10 @@ import { useState } from 'react';
 import AddUser from './components/User/AddUser';
 import UserList from './components/User/UserList';
 
-const dummyData = [
-  { id: 1, name: 'User1', age: 40 },
-  { id: 2, name: 'user2', age: 32 },
-];
+// const dummyData = [
+//   { id: 1, name: 'User1', age: 40 },
+//   { id: 2, name: 'user2', age: 32 },
+// ];
 
 function App() {
   // const [userList, setUserList] = useState(dummyData);
