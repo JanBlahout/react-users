@@ -3,8 +3,8 @@ import AddUser from './components/User/AddUser';
 import UserList from './components/User/UserList';
 
 const dummyData = [
-  { id: 1, name: 'Jan', age: 28 },
-  { id: 2, name: 'Bara', age: 25 },
+  { id: 1, name: 'User1', age: 40 },
+  { id: 2, name: 'user2', age: 32 },
 ];
 
 function App() {
