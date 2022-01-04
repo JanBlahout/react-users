@@ -8,7 +8,8 @@ const dummyData = [
 ];
 
 function App() {
-  const [userList, setUserList] = useState(dummyData);
+  // const [userList, setUserList] = useState(dummyData);
+  const [userList, setUserList] = useState([]);
 
   const addUserHandler = (userName, userAge) => {
     setUserList(prevState => {
